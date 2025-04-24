@@ -1,0 +1,21 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  justify-content: center;
+  height: 100vh;
+  font-family: "Outfit";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tag {
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 4rem;
+}
+img {
+  padding: 2rem;
+  border-radius: 3rem;
+}
